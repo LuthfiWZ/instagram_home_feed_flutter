@@ -21,10 +21,10 @@ Membuat tampilan Instagram Home Feed sederhana dengan:
 - RichText → caption postingan
 
 ## Screenshot
-Image.asset('hasil_ui.jpeg')
+hasil_ui.jpeg)
 
 ## Wireframe
-Image.asset('wireframe/wireframe.png')
+wireframe.png)
 
 ## Kesulitan yang Ditemui
 Kesulitan dalam mengatur scroll antara ListView dan SingleChildScrollView. Solusinya menggunakan shrinkWrap dan NeverScrollableScrollPhysics.

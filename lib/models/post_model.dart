@@ -1,0 +1,15 @@
+class PostModel {
+  final String username;
+  final String userImage;
+  final String postImage;
+  final String caption;
+  final int likes;
+
+  PostModel({
+    required this.username,
+    required this.userImage,
+    required this.postImage,
+    required this.caption,
+    required this.likes,
+  });
+}
